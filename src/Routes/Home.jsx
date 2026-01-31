@@ -11,7 +11,7 @@ function Home(props) {
                 <div className='bg-[#0000004b] fixed w-full h-full'></div>
                 <img
                     className='w-full h-full object-top object-cover'
-                    src="src/house_images/di3aya.jpg"
+                    src="/di3aya.jpg"
                     alt="di3aya"
                 />
             </div>
