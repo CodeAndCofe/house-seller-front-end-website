@@ -1,0 +1,19 @@
+@import "tailwindcss";
+#root
+{
+  user-select: none;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body
+{
+  background-color:grey;
+}
+
+.frensh-font
+{
+   font-family: "IM Fell French Canon", serif;
+}
