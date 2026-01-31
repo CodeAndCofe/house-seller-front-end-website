@@ -8,12 +8,12 @@ const Photos = () => {
 
   const [my_src, Setmy_src] = useState("");
   const houseImages = [
-    "src/house_images/house.jpg",
-    "src/house_images/bath.jpg",
-    "src/house_images/bedroom.jpg",
-    "src/house_images/ketchen.jpg",
-    "src/house_images/livingRoom.jpg",
-    "src/house_images/toilet.jpg",
+    "/house.jpg",
+    "/bath.jpg",
+    "/bedroom.jpg",
+    "/ketchen.jpg",
+    "/livingRoom.jpg",
+    "/toilet.jpg",
   ];
 
   function  make_true(src)
